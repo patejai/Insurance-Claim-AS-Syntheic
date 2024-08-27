@@ -1,1 +1,3 @@
 # Synthetic Allstate insurance Fraud Detection 
+This project focuses on detecting fraudulent insurance claims using a synthetic dataset modeled after Allstate Insurance data. The goal is to identify high-risk accounts and potential fraud targets by applying advanced machine learning techniques. The project leverages Python for data analysis and model building, with a focus on supervised learning algorithms. Through this project, key insights were derived to enhance fraud detection accuracy, ultimately aiming to reduce financial losses and improve operational efficiency for insurance providers.
+
